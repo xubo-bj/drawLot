@@ -1,0 +1,9 @@
+{
+"globals":{
+    "$":false,
+    "localStorage":false,
+    "_":false,
+    "applicants",false
+    },
+"extends": "eslint:recommended"
+}
